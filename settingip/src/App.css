@@ -1,0 +1,32 @@
+* {
+    font-family: roboto;
+}
+li {
+    list-style: none;
+}
+.header {
+    text-align: center;
+}
+.list {
+    padding-bottom: 20px;
+}
+
+.list-item {
+    color: black;
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 5px;
+}
+.list-item:hover {
+    color: black;
+    text-decoration: none;
+}
+.add-list {
+    margin-top: 30px;
+}
+.add-btn {
+    padding: 0;
+}
+.table-content {
+    padding-top: 45px;
+}
